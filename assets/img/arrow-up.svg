@@ -1,6 +1,1 @@
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <ellipse ry="97" rx="97" cy="100" cx="100" stroke-width="5" stroke="#000" />
-  <line y2="170" x2="100" y1="30" x1="100.217391" stroke-width="5" stroke="#000" />
-  <line y2="30" x2="100" y1="70" x1="59.782609" stroke-width="5" stroke="#000" />
-  <line stroke="#000" y2="28" x2="98.5" y1="70" x1="140" stroke-width="5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"><ellipse cx="100" cy="100" stroke="#000" stroke-width="5" rx="97" ry="97"/><line x1="100.217" x2="100" y1="30" y2="170" stroke="#000" stroke-width="5"/><line x1="59.783" x2="100" y1="70" y2="30" stroke="#000" stroke-width="5"/><line x1="140" x2="98.5" y1="70" y2="28" stroke="#000" stroke-width="5"/></svg>
